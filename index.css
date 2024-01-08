@@ -2,6 +2,11 @@
     width: 100%;
     padding: 70px 0;
 }
+.bagr{
+    background-image: url(bgq.jpg);
+    background-size: cover;
+    
+}
 
 .menu h1{
     font-size: 55px;
@@ -41,6 +46,9 @@
     padding-top: 10px;
     margin-bottom: 20px;
     box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    backdrop-filter: blur(10px);
+   
+
 }
 
 .menu .menu_box .menu_card .menu_image{
@@ -107,7 +115,7 @@
 
 .menu .menu_box .menu_card .menu_info p{
     text-align: center;
-    margin-top: 8px;
+    margin-top: 10px;
     line-height: 21px;
 }
 
@@ -119,7 +127,7 @@
 .menu .menu_box .menu_card .menu_info .menu_icon{
     color: #fac031;
     text-align: center;
-    margin: 10px 0 10px 0;
+    margin: 10px 0 50px 0;
 }
 
 .menu .menu_box .menu_card .menu_info .menu_btn{
