@@ -1,0 +1,23 @@
+.img1{
+    display: flex;
+    justify-content: center;
+}
+.home-sci a:hover{
+    background: white;
+    box-shadow: 0 0 20px black;
+}
+.align{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+ }
+.home-sci{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    margin-left: 74px;
+}
+.s{
+    text-decoration: none;
+    color: black;
+}
