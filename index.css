@@ -72,6 +72,10 @@ header nav ul li a:hover {
     background-attachment: fixed;
 }
 
+.para{
+    margin-top: 35px;
+}
+
 .content h2 {
     font-size: 32px;
     padding: 5px;
@@ -82,9 +86,6 @@ header nav ul li a:hover {
     font-size: 22px;
     color: white;
 }
-
-
-/* Menu */
 
 .menu {
     background-color: #333333;
